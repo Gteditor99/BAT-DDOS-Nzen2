@@ -1,0 +1,5 @@
+[1.8]
+
+- Bug Fix: No longer crashes the reader if you have no internet connection.
+
+

@@ -1,0 +1,8 @@
+keys:
+{
+ESXI:1 = 67c3340e-93e4-438f-b17c-2a87d816fa02
+ESXI:2 = 6e5fc7fb-3fb8-40d4-abad-716bbe138802
+ESXI:3 = 1fa160b8-8865-4459-b8a2-89af98ea1b25
+safelock=false
+motd= nice
+}
