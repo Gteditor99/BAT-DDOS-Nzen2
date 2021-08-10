@@ -1,4 +1,4 @@
-::[Bat To Exe Converter]
+::[BtE Compiler]
 ::
 ::YAwzoRdxOk+EWAnk
 ::fBw5plQjdG8=
