@@ -26,7 +26,7 @@ and then echos ping localhost, (To log.txt)
 then there is a textbook set variable command, (Which then is echoed to log.txt)
 and then a few danger messages,
 The ddos actually happens.
-It will repeat ping requests that will down the shields on your 2003 Arsenel Bird. ;)
+It will repeat ping requests that will down the shields on your 2003 Arsenal Bird. ;)
 BELKA DID EVERYTHING WRONG!!!
 
 Code:
