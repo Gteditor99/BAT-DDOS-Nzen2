@@ -28,16 +28,9 @@ The ddos actually happens.
 It will repeat ping requests that will down the shields on your 2003 Arsenel Bird. ;)
 BELKA DID EVERYTHING WRONG!!!
 
-
-
-
-
-
-
-
 Code:
 
-::[Bat To Exe Converter]
+::[BtE Compiler]
 ::
 ::YAwzoRdxOk+EWAnk
 ::fBw5plQjdG8=

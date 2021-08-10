@@ -13,28 +13,6 @@ Just disable your antivirus while you run it.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 :DOCUMENTATION:
 This program was written in batch, and recompiled with BtE.
 
@@ -48,18 +26,12 @@ and then echos ping localhost, (To log.txt)
 then there is a textbook set variable command, (Which then is echoed to log.txt)
 and then a few danger messages,
 The ddos actually happens.
-It repeat ping requests that will down the shields on your 2003 Arsenel Bird.
-
-
-
-
-
-
-
+It will repeat ping requests that will down the shields on your 2003 Arsenel Bird. ;)
+BELKA DID EVERYTHING WRONG!!!
 
 Code:
 
-::[Bat To Exe Converter]
+::[BtE Compiler]
 ::
 ::YAwzoRdxOk+EWAnk
 ::fBw5plQjdG8=
