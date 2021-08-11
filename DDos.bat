@@ -33,7 +33,7 @@
 ::978f952a14a936cc963da21a135fa983
 @echo off
 cls
-title DDos Tool Nzen2- Loading
+title DDos Nzen2- Loading
 echo Started: >> log.txt
 ping localhost >> log.txt
 title DDos Tool Nzen2- Press anything to continue
