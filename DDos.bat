@@ -110,7 +110,7 @@ goto PreAttack
 cls
 echo ---Enter Attack IP---
 set /p AttackIP=
-Echo Attack IP set to %AttackIP%
+echo Attack IP set to %AttackIP%
 echo Attack IP set! >> log.txt
 echo IP: >> log.txt
 echo %AttackIP% >> log.txt
