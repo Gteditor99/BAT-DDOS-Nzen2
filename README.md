@@ -1,4 +1,5 @@
 # DDOS-Nzen2
+*Will be soon ported to python*
 A small DDos program that will (In theory) take down your old 2003 laptop.
 It won't harm anyone, nor anything.
 Idk how you would take down a server with this, maybe running multiple instances of it...
